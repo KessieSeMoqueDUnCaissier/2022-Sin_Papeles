@@ -6,7 +6,7 @@ class Joueur() : # classe pour créer le vaisseau du joueur
     def __init__(self) :
         self.image = pygame.image.load("vaisseau1.png")
         self.sens = "O"
-        self.vitesse = 4
+        self.vitesse = 2.75
         self.score=0
         self.health=100
         self.max_health=100
@@ -23,7 +23,7 @@ class Joueur() : # classe pour créer le vaisseau du joueur
         elif (self.sens == "gauche") and (self.rect.x > 0):
            self.rect.x -= self.vitesse
     def tirer(self):
-        self.sens = "O"
+        self.sens = self.sens
     def marquer(self):
         self.score+= 1
     def update(self,screen):
@@ -110,4 +110,4 @@ class Balle() :
     def toucher2(self, siphano):
         if (math.fabs(self.hauteur - siphano.rect.y) < 300) and (math.fabs(self.depart - siphano.rect.x) < 110):
             self.etat = "chargee"
-            return True        
+            return True
