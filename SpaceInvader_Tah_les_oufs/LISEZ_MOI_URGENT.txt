@@ -4,10 +4,12 @@ Z-Ici c'est Paris, Kaarism
 E-Illuminatis, Kaarism
 R-Samba Mix, DJ Alex
 T-Dollars, Youv Dee
+Y-Sasageyo, David de Ange Momone et David
 
 ESPACE-Tir
 FLECHE DROITE-Aller à droite
 FLECHE GAUCHE-Aller à gauche
+FLECHE BAS-Freiner
 
 AIDE:
 Lancez le fichier Jeu.py et assurez vous d'avoir un interpréteur python 
