@@ -1,5 +1,5 @@
-# Haagrah-Invaders
-T'es dans un vaisseau, t'avances et tu fais boom-boom sur les ennemis
+# Sin Papeles
+Aidez Don Pollo à rester aux Etats-Unis !
 ![angryspeed](https://user-images.githubusercontent.com/90514084/161133691-0cbda4ef-43b8-4763-84b2-06f7d8a50788.gif)
 
 
@@ -15,8 +15,6 @@ T'es dans un vaisseau, t'avances et tu fais boom-boom sur les ennemis
 **E** - Illuminatis, Kaarism
 
 **R** - Samba Mix, DJ Alex
-
-**T** - Dollars, Youv Dee
 
 ------------------------------
   ### Joueur:
